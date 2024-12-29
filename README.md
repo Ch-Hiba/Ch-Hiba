@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHOKLATI Hiba</h1>
+<h1 align="center">Hi 👋, I'm Hiba</h1>
 <h3 align="center">🌸✨ A Passionate Mobile Application Developer ✨🌸</h3>
 
 <p align="center">
