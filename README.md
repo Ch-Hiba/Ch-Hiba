@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiba</h1>
-<h3 align="center">🌸✨ A Passionate Mobile Application Developer ✨🌸</h3>
+<h3 align="center">✨ A Passionate Mobile Application Developer ✨</h3>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Coding Girl" width="400"/>
@@ -25,7 +25,7 @@
 
 ---
 
-### 🌸💻 About Me
+### 💻 About Me
 - 🔭 **I’m currently working on**: A Taxi Booking App using Kotlin, Firebase, and Google Maps 🚕📍.  
 - 🌱 **Currently Learning**: Advanced Android Development, Kotlin, and Flutter 📚📱.  
 - 💬 **Ask me about**: Mobile Development, Kotlin, OOP, and UI/UX Design 🎨✨.  
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌸✨ My Projects
+### ✨ My Projects
 - 💖 **[RingApp](https://github.com/ch-hiba/ringapp):** A modern app integrating ViewPager2, TabLayout, and RecyclerView 📖📱.  
 - 🚕 **[MyTaxi](https://github.com/ch-hiba/mytaxi):** A fully-featured taxi booking app with Google Maps integration 🗺️📍. 
 - 🌐 **[Portfolio Website](https://chokolatihiba.netlify.app):** Showcasing my skills, projects, and achievements 🌸✨.  
@@ -61,7 +61,7 @@
 
 ---
 
-### 🌸🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -84,7 +84,7 @@
 
 ---
 
-### 📊🌈 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ch-hiba&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </p>
