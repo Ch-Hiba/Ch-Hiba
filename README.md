@@ -44,7 +44,7 @@
 ### 🌸🌐 Connect With Me
 <p align="center">
 <a href="https://twitter.com/ch_hibaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ch_hibaa" height="30" width="40" /></a>
-<a href="www.linkedin.com/in/hiba-choklati-3017a6328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba choklati" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hiba-choklati-3017a6328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba choklati" height="30" width="40" /></a>
 <a href="https://instagram.com/_ch_hibaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ch_hibaa" height="30" width="40" /></a>
 </p>
 
