@@ -29,7 +29,6 @@
 - 🔭 **I’m currently working on**: A Taxi Booking App using Kotlin, Firebase, and Google Maps 🚕📍.  
 - 🌱 **Currently Learning**: Advanced Android Development, Kotlin, and Flutter 📚📱.  
 - 💬 **Ask me about**: Mobile Development, Kotlin, OOP, and UI/UX Design 🎨✨.  
-- 👩‍💻 **All of my projects are available at**: [🌐 My Portfolio](https://chokolatihiba.netlify.app)  
 - 📫 **Reach me at**: [📧 hibachoklati7@gmail.com](mailto:hibachoklati7@gmail.com)  
 - 🎀 **Fun fact**:🍪 My favorite coding snack? Cookies, because they’re just as sweet as my code! 💻🍪.
 
@@ -45,7 +44,7 @@
 ### 🌸🌐 Connect With Me
 <p align="center">
 <a href="https://twitter.com/ch_hibaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ch_hibaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hiba choklati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba choklati" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hiba-choklati-3017a6328" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba choklati" height="30" width="40" /></a>
 <a href="https://instagram.com/_ch_hibaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ch_hibaa" height="30" width="40" /></a>
 </p>
 
@@ -53,8 +52,8 @@
 ---
 
 ### ✨ My Projects
-- 💖 **[RingApp](https://github.com/ch-hiba/ringapp):** A modern app integrating ViewPager2, TabLayout, and RecyclerView 📖📱.  
-- 🚕 **[MyTaxi](https://github.com/ch-hiba/mytaxi):** A fully-featured taxi booking app with Google Maps integration 🗺️📍. 
+- 💖 **[RingApp](https://github.com/Ch-Hiba/RingApp.git):** A modern app integrating ViewPager2, TabLayout, and RecyclerView 📖📱.  
+- 🚕 **[MyTaxi](https://github.com/Ch-Hiba/Taxi.git):** A fully-featured taxi booking app with Google Maps integration 🗺️📍. 
 - 🌐 **[Portfolio Website](https://chokolatihiba.netlify.app):** Showcasing my skills, projects, and achievements 🌸✨.  
 
 🎯 Explore all my projects on [GitHub](https://github.com/ch-hiba).
@@ -76,7 +75,7 @@
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"www.linkedin.com/in/hiba-choklati-3017a6328 alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
